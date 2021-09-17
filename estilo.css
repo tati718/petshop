@@ -1,0 +1,25 @@
+body{
+   background-color: #fff6d8;
+   font-family: Helvetica,Arial, sans-serif;
+   background-image: url(imagem/cabecalhos_back.png);
+
+}
+h1{
+  color: #906718;
+}
+
+h2{
+  color: #906718; 
+
+}
+
+h3{
+ color: #906718; 
+}
+
+h4{
+  color: #d48b00; 
+  border-bottom:3px dashed #d48b00;
+  margin:0;	
+}
+
